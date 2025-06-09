@@ -1,7 +1,7 @@
 # Ольга Николаева — Технический писатель
 
 **Контакты:**  
-Email: onikolaeva9595@gmail.com  
+Email: ivanovaolga737300000@gmail.com  
 Telegram: olgaolga_it  
 Город: Ульяновск, Россия
 
