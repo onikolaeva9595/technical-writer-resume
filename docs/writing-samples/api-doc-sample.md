@@ -12,5 +12,5 @@
 {
   "id": 1,
   "name": "Olga",
-  "email": "ivanovaolga737300000@gmail.com@example.com"
+  "email": "ivanovaolga737300000@gmail.com"
 }
