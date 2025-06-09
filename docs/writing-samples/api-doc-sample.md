@@ -11,6 +11,6 @@
 ```json
 {
   "id": 1,
-  "name": "Ivan Ivanov",
-  "email": "ivan@example.com"
+  "name": "Olga Nikolaeva",
+  "email": "olganikolaeva@example.com"
 }
