@@ -2,7 +2,7 @@
 
 **Контакты:**  
 Email: onikolaeva9595@gmail.com  
-Телефон: +7 (993) 370-20-94  
+Telegram: olgaolga_it
 Город: Ульяновск, Россия
 
 ---
