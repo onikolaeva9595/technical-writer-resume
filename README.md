@@ -6,3 +6,5 @@
 - [Резюме](resume.md)
 - [Портфолио](docs/portfolio.md)
 - [Примеры работ](docs/writing-samples/)
+
+[![HH](https://hhcdn.ru/icms/10132131.svg)](https://hh.ru/resume/869f25e8ff0b6e9a810039ed1f4f6435305a45?from=share_ios)
