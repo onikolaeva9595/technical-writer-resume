@@ -22,7 +22,7 @@ Telegram: olgaolga_it
 
 ## Опыт работы
 
-**Яндекс Крауд**  
+**Яндекс Крауд**  <img src="https://infars.ru/upload/resize_cache/webp/iblock/00d/6dvtk1slox490g87epiu6we3wg0ehu8a/GoAN4hYwKxo.webp" width="20" height="20">  
 *Технический писатель*  
 Ноябрь 2024 — Май 2025  
 - Создание и улучшение инструкций и справочных материалов для Яндекс 360  
@@ -30,7 +30,7 @@ Telegram: olgaolga_it
 - Кросс-функциональные ревью, сбор и внедрение обратной связи  
 - Снижение нагрузки на поддержку на 30% за счёт доработки документации
 
-**UsetechHR**  
+**UsetechHR**   <img src= "https://media.proglib.io/companies/2021/03/25/20395da6d70dc10369d29f1b3d751955.jpg" width="20" height="20">  
 Январь 2022 — Август 2024  
 - Подбор, адаптация и онбординг персонала  
 
