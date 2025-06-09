@@ -19,4 +19,4 @@
 ## Инструменты
 
 - Atlassian Confluence, Miro, Figma
-- Markdown, GitHub
+- Markdown, GitHub, BookStack
