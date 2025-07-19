@@ -5,7 +5,8 @@
 - [Пример API-документации](writing-samples/api-doc-sample.md)
 - [User Guide (Пользовательское руководство)](writing-samples/user-guide.md)
 - [Release Notes (Пример релиз-нот)](writing-samples/release-notes-sample.md)
-- [Сравнение продуктов](writing-samples/product-comparison.md)
+- [Сравнение продуктов](writing-samples/mytest.pdf)
+- [Техническая документация - Товары](docs/api-doc-sample.md)
 
 ## Проекты
 
