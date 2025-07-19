@@ -6,7 +6,7 @@
 - [User Guide (Пользовательское руководство)](writing-samples/user-guide.md)
 - [Release Notes (Пример релиз-нот)](writing-samples/release-notes-sample.md)
 - [Сравнение продуктов](writing-samples/api-doc-sample.md)
-- [Техническая документация - Товары](docs/mytest.pdf)
+- [Техническая документация - Товары](mytest.pdf)
 
 ## Проекты
 
